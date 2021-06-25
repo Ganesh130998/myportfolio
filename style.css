@@ -200,7 +200,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/hero-bg.png);
+	background-image: url(https://scontent.fccu2-1.fna.fbcdn.net/v/t1.6435-9/56298403_1699959450150007_4473331794539708416_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=e3f864&_nc_ohc=knneWTwTmKQAX8VHe9m&_nc_oc=AQmwlaClCDheknXJ43SYxeMq1zD6S9gBcSsNSMhl6Q9zhQIDlaIdEGCzfEZyceDdYfpoXsuf-z6rCGjsbQoZdy3G&_nc_ht=scontent.fccu2-1.fna&oh=9af878b2ccd9c4c24267219129bfc053&oe=60DB402B);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
